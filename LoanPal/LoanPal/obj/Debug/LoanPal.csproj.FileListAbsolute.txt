@@ -1,0 +1,6 @@
+c:\users\jouhyoung\documents\visual studio 2012\Projects\LoanPal\LoanPal\bin\Debug\LoanPal.exe.config
+c:\users\jouhyoung\documents\visual studio 2012\Projects\LoanPal\LoanPal\bin\Debug\LoanPal.exe
+c:\users\jouhyoung\documents\visual studio 2012\Projects\LoanPal\LoanPal\bin\Debug\LoanPal.pdb
+c:\users\jouhyoung\documents\visual studio 2012\Projects\LoanPal\LoanPal\obj\Debug\LoanPal.csprojResolveAssemblyReference.cache
+c:\users\jouhyoung\documents\visual studio 2012\Projects\LoanPal\LoanPal\obj\Debug\LoanPal.exe
+c:\users\jouhyoung\documents\visual studio 2012\Projects\LoanPal\LoanPal\obj\Debug\LoanPal.pdb
