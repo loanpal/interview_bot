@@ -6,8 +6,8 @@ Thanks for interviewing at loanpal.
 
 Create a 'bot' that can help a customer apply for a mortgage. 
 The bot should prompt for certain inputs and then parse the input given by the user.
-`result.txt` contains the responses that the user will give.
-`interview_bot.txt` contains a mock of how the data should look.
+`interview_bot.txt` contains the responses that the user will give.
+`result.txt` contains a mock of how the data should look.
 
 #### Guidlines:
 
