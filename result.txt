@@ -1,0 +1,17 @@
+{
+    "name": {
+        "first_name": "Loan",
+        "last_name": "Pal"
+    },
+    "address": {
+        "number": 699,
+        "street_name": "2nd Street",
+        "City": "San Francisco",
+        "State": "CA",
+        "Zipcode": "94107"
+    },
+    "loan_purpose": "Purchase",
+    "credit_score": 720,
+    "home_value": 300000,
+    "phone_number": "3604640368"
+}
